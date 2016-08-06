@@ -94,7 +94,7 @@ module.exports = {
   },
   progress: true,
   resolve: {
-    modulesDirectories: [
+    modules: [
       'src',
       'node_modules'
     ],
